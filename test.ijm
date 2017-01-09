@@ -1,6 +1,7 @@
 /*
  * Check ROIs for certain criteria and analyze only if conditions are met
  olivier dot burri at epfl dot ch
+ modified by joao
  */
 
 min_ratio = 0.85;
